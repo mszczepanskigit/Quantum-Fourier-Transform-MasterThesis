@@ -34,7 +34,7 @@ plt.show()"""
 beta = alpha - np.mean(alpha)
 
 Fbeta = fft.fft(beta)
-plt.plot(range(64), np.abs(Fbeta)**2, c="olive")
+plt.plot(range(64), np.real(Fbeta), c="olive")
 plt.xlabel("Frequencies")
 plt.ylabel("Squared amplitudes")
 plt.title(r"Power spectrum of the sequence $|\beta\rightangle$")
