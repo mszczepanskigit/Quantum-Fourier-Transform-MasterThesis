@@ -1,4 +1,5 @@
 """
+Exploring Classical and Quantum Fourier Transforms: A Practical Comparative Perspective utilizing IBM Quantum Platform
 File: test_2-2.py
 Author: Mateusz Szczepański
 Date: 05.09.2023
