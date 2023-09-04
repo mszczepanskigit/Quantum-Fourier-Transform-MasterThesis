@@ -1,3 +1,10 @@
+"""
+File: main.py
+Author: Mateusz Szczepański
+Date: 05.09.2023
+Description: Script that allowed to visualize the corrupted signal reconstruction in Example 1.27.
+"""
+
 from scipy.stats import expon
 from scipy import fft
 import numpy as np

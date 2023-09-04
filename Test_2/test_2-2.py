@@ -1,3 +1,10 @@
+"""
+File: test_2-2.py
+Author: Mateusz Szczepański
+Date: 05.09.2023
+Description: Extra check-in's for classical analysis performed for Problem 2 in Section 4.5.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl

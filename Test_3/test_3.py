@@ -1,3 +1,10 @@
+"""
+File: test_3.py
+Author: Mateusz Szczepański
+Date: 05.09.2023
+Description: Classical analysis performed for Problem 3 (DNA sequence analysis) in Section 4.6.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl

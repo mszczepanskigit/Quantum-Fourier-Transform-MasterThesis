@@ -1,3 +1,11 @@
+"""
+File: animation_example5.py
+Author: Mateusz Szczepański
+Date: 05.09.2023
+Description: Script which allowed to visualize with animation which frequencies cut out to get the best result
+             in Example 1.27.
+"""
+
 from main import *
 
 

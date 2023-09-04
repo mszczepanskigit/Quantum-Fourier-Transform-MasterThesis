@@ -1,3 +1,10 @@
+"""
+File: test_1.py
+Author: Mateusz Szczepański
+Date: 05.09.2023
+Description: Classical analysis performed for Problem 1 in Section 4.4.
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
